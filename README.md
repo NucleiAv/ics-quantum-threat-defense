@@ -1,5 +1,4 @@
 # 📋 Section 4: Threat Model - Quick Reference Guide
-## Assignment 3.2 - Group 19
 
 This README provides a quick overview of Section 4 (Threat Model) structure, content, and how to navigate it.
 
